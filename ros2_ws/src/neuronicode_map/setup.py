@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'neuronicode_sa'
+package_name = 'neuronicode_map'
 
 setup(
     name=package_name,
